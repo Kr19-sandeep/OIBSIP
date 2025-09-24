@@ -1,7 +1,7 @@
 OIBSIPOasis-Infobyte-Internship-
 
 Oasis Infobyte data analysis Internship Tasks
-This repository contains 3 tasks completed for the Oasis Infobyte Data analysis Internship.
+This repository contains 3 tasks completed for the Oasis Infobyte Data Science Internship.
 
 Completed Tasks:
 
