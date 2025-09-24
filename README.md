@@ -6,7 +6,7 @@ This repository contains the projects I completed during my data science interns
 
 ## **Projects**
 
-### 1. [IRIS FLOWER CLASSIFICATION](./Iris-Flower-Classification/)
+### 1. [IRIS FLOWER CLASSIFICATION](https://github.com/Kr19-sandeep/OIBSIP/tree/main/IRIS%20FLOWER%20CLASSIFICATION)
 * **Task:** Classification
 * **Description:** A model that identifies the species of an Iris flower based on its sepal and petal measurements.
 
