@@ -14,6 +14,6 @@ This repository contains the projects I completed during my data science interns
 * **Task:** Regression
 * **Description:** A model that predicts the selling price of a used car based on its features like age, kilometers driven, and original price.
 
-### 3. [SALES PREDICTION USING PYTHON](./SALES-PREDICTION-USING-PYTHON/)
+### 3. [SALES PREDICTION USING PYTHON](https://github.com/Kr19-sandeep/OIBSIP/tree/main/SALES%20PREDICTION%20USING%20PYTHON)
 * **Task:** Regression
 * **Description:** A model that predicts product sales based on the money spent on different advertising channels (TV, Radio, Newspaper).
