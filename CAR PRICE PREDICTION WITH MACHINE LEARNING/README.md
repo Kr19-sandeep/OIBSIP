@@ -1,10 +1,10 @@
-### ******Project Summary******: Car Price Prediction
+# Project 2: Car Price Prediction
 
-### **Goal**: 
-To predict the selling price of used cars using the `car data.csv` dataset.
+This project focuses on a regression task: predicting the selling price of used cars. It involves handling a dataset with both numerical and text-based (categorical) features.
 
-### ******Process******:
-I prepared the data by converting text columns (like Fuel Type) into numbers. Then, I trained a Random Forest model to learn from the data and predict the prices.
+* **Dataset:** `car data.csv`
+* **Model Used:** Random Forest Regressor.
+* **Result:** The model performed very well, achieving an **R-squared score of 0.96**.
 
-### **Result**: 
-The model was very accurate and achieved an R-squared score of 0.96. This was a great project for learning how to handle a dataset with both text and numbers.
+### How to Use
+The complete code is in the Jupyter Notebook (`.ipynb`) file in this folder. You can open and run it using Google Colab or a local Jupyter environment.
