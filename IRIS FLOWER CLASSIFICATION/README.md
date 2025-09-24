@@ -1,4 +1,4 @@
-**Project Summary**: Iris Flower Classification
+##**Project Summary**##: Iris Flower Classification
 
 **Goal**: To classify Iris flowers into one of three species (setosa, versicolor, or virginica) using the `Iris.csv` dataset.
 
