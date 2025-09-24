@@ -1,4 +1,4 @@
-# Beginner Data Science Projects
+# Data Science Projects
 
 This repository contains the projects I completed during my data science internship. Each project focuses on a different dataset and a fundamental machine learning task.
 
@@ -6,7 +6,7 @@ This repository contains the projects I completed during my data science interns
 
 ## **Projects**
 
-### 1. [Iris Flower Classification](./Iris-Flower-Classification/)
+### 1. [IRIS FLOWER CLASSIFICATION](./Iris-Flower-Classification/)
 * **Task:** Classification
 * **Description:** A model that identifies the species of an Iris flower based on its sepal and petal measurements.
 
