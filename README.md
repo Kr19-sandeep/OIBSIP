@@ -10,7 +10,7 @@ This repository contains the projects I completed during my data science interns
 * **Task:** Classification
 * **Description:** A model that identifies the species of an Iris flower based on its sepal and petal measurements.
 
-### 2. [CAR PRICE PREDICTION WITH MACHINE LEARNING](./Car-Price-Prediction/)
+### 2. [CAR PRICE PREDICTION WITH MACHINE LEARNING](https://github.com/Kr19-sandeep/OIBSIP/tree/main/CAR%20PRICE%20PREDICTION%20WITH%20MACHINE%20LEARNING)
 * **Task:** Regression
 * **Description:** A model that predicts the selling price of a used car based on its features like age, kilometers driven, and original price.
 
