@@ -1,13 +1,10 @@
-**Project Report: Advertising & Sales Project**
+# Project 3: Advertising Sales Prediction
 
-1. **My Goal**
+The goal of this project is to understand the relationship between advertising spending and product sales. It's a regression task to predict sales based on ad budgets.
 
-My main goal for this project was to see if I could predict product sales. I wanted to use the money spent on different ads (like TV, Radio, and Newspaper) to guess how high the sales would be.
+* **Dataset:** `Advertising.csv`
+* **Model Used:** Linear Regression.
+* **Result:** The model showed a strong correlation, achieving an **R-squared score of 0.90**.
 
-2.**The Data I Used**
-
-I used the `Advertising.csv` file for this. It was a simple dataset with columns for the money spent on TV, Radio, and Newspaper ads, and the final `Sales` column, which I had to predict.
-
-3. **Final Thoughts**
-
-This was a fun project. I learned how to build a model to predict numbers and saw that TV and Radio ads seem to be very important for sales. The Linear Regression model was a good choice for this task.
+### How to Use
+The complete code is in the Jupyter Notebook (`.ipynb`) file in this folder. You can open and run it using Google Colab or a local Jupyter environment.
