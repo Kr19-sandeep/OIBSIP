@@ -1,14 +1,10 @@
-### **Project Summary: Iris Flower Classification**
+# Project 1: Iris Flower Classification
 
-### **Goal**
-To classify Iris flowers into one of three species (setosa, versicolor, or virginica) using the `Iris.csv` dataset.
+This project is a classic introduction to machine learning classification. The goal is to build a model that can classify Iris flowers into one of three species.
 
----
+* **Dataset:** `Iris.csv`
+* **Model Used:** A simple classification model (like Logistic Regression).
+* **Result:** The model achieved a perfect accuracy of **100%**.
 
-### **Process**
-I prepared the flower measurement data, trained a classification model to learn the patterns for each species, and then tested the model's predictions.
-
----
-
-### **Result**
-The model was perfect, achieving **100% accuracy**. This was an excellent first project for understanding how classification works.
+### How to Use
+The complete code is in the Jupyter Notebook (`.ipynb`) file in this folder. You can open and run it using Google Colab or a local Jupyter environment.
